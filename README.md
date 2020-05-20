@@ -1,4 +1,4 @@
-# God-Theory
+# 神论
 
 [English version](http://www.bullshitprogram.com/404)
 
