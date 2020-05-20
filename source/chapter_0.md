@@ -4,7 +4,7 @@
 
 ### 果因律
 
-果因律是[弑神]()的武器。
+果因律是[弑神](https://god-theory.readthedocs.io/zh_CN/latest/chapter_4.html#id6)的武器。
 
 ## H
 
@@ -24,7 +24,6 @@ P均衡，也叫鹏式均衡，屁（话）平衡。为我本人所创。是纳�
 
 破解非合作博弈的策略，始于[滑稽]()，终于信任。
 
-
 ## Z
 
 ### 智能(Intelligence)
@@ -41,7 +40,7 @@ P均衡，也叫鹏式均衡，屁（话）平衡。为我本人所创。是纳�
 
 #### 空间智能( Spatial intelligence )
 
-这个需要想象力。按照[目前中国的教育制度]()，不大行。
+这个需要想象力。按照[目前中国的教育制度](https://god-theory.readthedocs.io/zh_CN/latest/chapter_6.html#id9)，不大行。
 
 #### 身体运动智能( Bodily-Kinesthetic intelligence )
 

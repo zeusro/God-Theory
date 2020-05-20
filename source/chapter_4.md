@@ -12,7 +12,7 @@
 
 一即是全，全即是一。
 
-神的唯一性，需要用多维坐标系的[P均衡]()来证明。
+神的唯一性，需要用多维坐标系的[P均衡](https://god-theory.readthedocs.io/zh_CN/latest/chapter_5.html#p)来证明。
 
 在所有的广义和狭义宇宙中，都有着（唯一）神的存在。
 
