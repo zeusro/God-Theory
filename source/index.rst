@@ -10,6 +10,13 @@ Welcome to God-Theory's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   chapter_0.md
+   chapter_1.md
+   chapter_2.md
+   chapter_3.md
+   chapter_4.md
+   chapter_5.md
+   chapter_6.md 
 
 
 Indices and tables
