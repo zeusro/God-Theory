@@ -48,7 +48,7 @@
 
 #### 空间智能( Spatial intelligence )
 
-这个需要想象力。按照[目前中国的教育制度](https://god-theory.readthedocs.io/zh_CN/latest/chapter_6.html#id9)，不大行。
+空间想象力很难培养，但可以通过学习画画，素描，玩魔方来解决这个问题。
 
 #### 身体运动智能( Bodily-Kinesthetic intelligence )
 

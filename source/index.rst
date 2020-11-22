@@ -16,7 +16,6 @@ Welcome to God-Theory's documentation!
    chapter_3.md
    chapter_4.md
    chapter_5.md
-   chapter_6.md 
 
 
 Indices and tables
