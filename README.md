@@ -31,7 +31,6 @@
 3. [维度之间的联系](https://god-theory.readthedocs.io/zh_CN/latest/chapter_3.html)
 4. [神](https://god-theory.readthedocs.io/zh_CN/latest/chapter_4.html)
 5. [P均衡](https://god-theory.readthedocs.io/zh_CN/latest/chapter_5.html)
-6. [我眼中的世界](https://god-theory.readthedocs.io/zh_CN/latest/chapter_6.html)
 
 ## 自我介绍
 
