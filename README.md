@@ -1,8 +1,8 @@
+仅以此理论，赐予我所深爱之人。
+
 # 神论
 
-[English version](http://www.bullshitprogram.com/404)
-
-仅以此理论，赐予我所深爱之人。
+抽象神学
 
 ## 缘起
 
@@ -23,16 +23,3 @@
 这部著作也只是我偷偷抄的，不是我本人所写，有些内容是我胡编乱造加上去的，原版我忘了在哪里。
 
 
-## 章节介绍
-
-1. [狭义宇宙](https://god-theory.readthedocs.io/zh_CN/latest/chapter_1.html)
-2. [广义宇宙](https://god-theory.readthedocs.io/zh_CN/latest/chapter_2.html)
-3. [维度之间的联系](https://god-theory.readthedocs.io/zh_CN/latest/chapter_3.html)
-4. [神](https://god-theory.readthedocs.io/zh_CN/latest/chapter_4.html)
-5. [P均衡](https://god-theory.readthedocs.io/zh_CN/latest/chapter_5.html)
-
-## 自我介绍
-
-```
-क्षितिगर्भ
-```
