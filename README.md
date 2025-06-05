@@ -1,18 +1,16 @@
-  我心即宇智
+  My mind is universe
   
-# 神论
-
-抽象神学
-
-## 摘要
-
-上帝：“让牛顿去吧。” 
-
-魔鬼说：“让爱因斯坦去吧。” 
-
-伏羲/撒旦（God）说：“让[Zeusro](https://github.com/zeusro)去吧。” 
+# God Theory
 
 ![image](docs/source/images/Illidan.jpg)
+
+## Abstract
+
+Apollo:"[Newton](https://zh.wikipedia.org/wiki/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E7%89%9B%E9%A1%BF)"
+
+Satan：“[Albert](https://en.wikipedia.org/wiki/Albert_Einstein)”
+
+God：“[Zeusro](https://github.com/zeusro)”
 
 ## 章节介绍
 
