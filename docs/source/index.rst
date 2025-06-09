@@ -19,4 +19,5 @@ God Theory
    chapter_3.md
    chapter_4.md
    chapter_5.md
+   chapter_7.md
    chapter_6.md

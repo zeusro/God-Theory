@@ -27,7 +27,9 @@
 3. [维度之间的联系](chapter_3.md)
 4. [神](chapter_4.md)
 5. [P均衡](chapter_5.md)
+1. [神话故事的对立同一](chapter_7.md)
 1. [词汇表](chapter_6.md)
+
 
 ## me
 
