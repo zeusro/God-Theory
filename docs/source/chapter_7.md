@@ -42,3 +42,15 @@
 如果套用神话意象去观察当前局势，就会发现中美之争其实是因陀罗大战阿修罗。
 
 中西方神话故事是对立统一的，之所以有分化是因为“巴别塔事件”。
+
+### 巴别塔事件
+
+    Therefore is the name of it called Babel; because the Lord did there confound the language of all the earth: and from thence did the Lord scatter them abroad upon the face of all the earth.
+
+在《机动战士高达00》中，三个国家势力群体分别拥有一座建立在赤道上的轨道电梯，在煤和石油等化石燃料已经枯竭的时代，轨道电梯将代替这些不可再生能源，通过太阳能发电系统提供能源。
+
+![image](images/Suntower.jpg)
+
+巴别塔事件，是神明对逾越创世神的傲慢，施加的惩罚。巴别塔事件不仅造成了语言的分化，更造成了信仰的分割，让人类处于永远的对抗矛盾中。
+
+博弈论里面的"囚徒困境"就是神话故事的“巴别塔事件”。
