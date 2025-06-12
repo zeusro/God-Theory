@@ -23,3 +23,4 @@ God：“[Zeusro](https://github.com/zeusro)”
 1. [Same myth](docs/source/chapter_7.md)
 1. [Glossary](docs/source/chapter_6.md)
 
+[中文版本](readme.zh.md)
