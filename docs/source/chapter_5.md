@@ -7,8 +7,11 @@ P均衡是N人非合作博弈的扩展解。
 P均衡为我本人所创。是纳什均衡的超集。
 
 P均衡，全称皮神均衡。
+
 中文名称鹏式均衡，
+
 英文名叫 Bullshit Equilibrium（hardly impossible equilibrium）, P Equilibrium，MVP Equilibrium，Zeusro Equilibrium，
+
 数学定义叫做0式均衡。
 
 以鹏式均衡作为终极目标，基于帕累托优化而采取的策略，叫做MVP策略（best policy）。
