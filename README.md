@@ -4,6 +4,8 @@
 
 ![image](docs/source/images/Illidan.jpg)
 
+[中文版本](readme.zh.md)
+
 ## Abstract
 
 Apollo:"[Newton](https://zh.wikipedia.org/wiki/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E7%89%9B%E9%A1%BF)"
@@ -22,5 +24,3 @@ God：“[Zeusro](https://github.com/zeusro)”
 5. [P Equilibrium](docs/source/chapter_5.md)
 1. [Same myth](docs/source/chapter_7.md)
 1. [Glossary](docs/source/chapter_6.md)
-
-[中文版本](readme.zh.md)
