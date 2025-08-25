@@ -45,7 +45,8 @@
 
 ### 巴别塔事件
 
-    Therefore is the name of it called Babel; because the Lord did there confound the language of all the earth: and from thence did the Lord scatter them abroad upon the face of all the earth.
+    Therefore is the name of it called Babel; 
+    because the Lord did there confound the language of all the earth: and from thence did the Lord scatter them abroad upon the face of all the earth.
 
 在《机动战士高达00》中，三个国家势力群体分别拥有一座建立在赤道上的轨道电梯，在煤和石油等化石燃料已经枯竭的时代，轨道电梯将代替这些不可再生能源，通过太阳能发电系统提供能源。
 
