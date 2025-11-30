@@ -18,9 +18,9 @@ God：“[Zeusro](https://github.com/zeusro)”
 
 1. [Foreword](docs/source/chapter_0.en.md)
 1. [Small universe](docs/source/chapter_1.en.md)
-2. [Big universe](docs/source/chapter_2.en.md)
-3. [Connections between dimensions](docs/source/chapter_3.en.md)
-4. [God](docs/source/chapter_4.en.md)
-5. [P Equilibrium](docs/source/chapter_5.en.md)
+1. [Big universe](docs/source/chapter_2.en.md)
+1. [Connections between dimensions](docs/source/chapter_3.en.md)
+1. [God](docs/source/chapter_4.en.md)
+1. [P Equilibrium](docs/source/chapter_5.en.md)
 1. [Same myth](docs/source/chapter_7.en.md)
 1. [Glossary](docs/source/chapter_6.en.md)
