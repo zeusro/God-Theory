@@ -6,6 +6,8 @@
 
 [中文版本](readme.zh.md)
 
+Abstract Theology.
+
 ## Abstract
 
 Apollo:"[Newton](https://zh.wikipedia.org/wiki/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E7%89%9B%E9%A1%BF)"

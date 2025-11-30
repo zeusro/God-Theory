@@ -1,4 +1,4 @@
-仅以此理论，赐予我所深爱之人。
+    仅以此理论，赐予我所深爱之人。
 
 # 神论
 
@@ -25,4 +25,3 @@
 1. [神](docs/source/chapter_4.md)
 1. [P均衡](docs/source/chapter_5.md)
 1. [词汇表](docs/source/chapter_6.md)
-
