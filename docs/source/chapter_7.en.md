@@ -55,3 +55,17 @@ In *Mobile Suit Gundam 00*, three powerful nations each possess an orbital eleva
 The Tower of Babel Incident was a punishment imposed by the gods for the arrogance of those who transgressed the Creator God. The Tower of Babel Incident not only caused the division of languages ​​but also the fragmentation of faiths, plunging humanity into perpetual conflict and contradiction.
 
 The "Prisoner's Dilemma" is a consequence of the mythical "Tower of Babel Incident."
+
+## Class Differences
+
+When I was young, I never liked the boring custom of “worshipping the landlord spirit,” and I had no interest in religion. But I did have one habit: I often reread Greek mythology.
+
+For example, some parts describe Zeus uniting with human women and producing various monsters and strange beings. Recently, I realized the deeper meaning: it is actually about “marriage between equals.” When people from different social classes unite, their offspring are very likely to face tragedy.
+
+The Chinese myth The Cowherd and the Weaver Girl expresses the same idea. The Cowherd, a man from the bottom of society, managed to stay with the Weaver Girl only through certain tricks, but in the end, they were forcibly separated and could meet only at designated times.
+
+In a patriarchal society, children take the father’s surname. But if the woman’s family is highly prestigious, her relatives naturally do not want their descendants to become ordinary. Therefore, if “strong-strong alliance” is impossible, the only way to continue the family line is for the man of lower social status to marry into the woman’s family.
+
+However, in a patriarchal society, most Chinese people care too much about “face,” so they refuse to do this. This perfectly explains why, in 2020, I came across that heartbreaking painting titled 张秩杰.
+
+Reality is not mythology. Crossing social classes is sometimes nothing more than a fantasy.
