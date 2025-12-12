@@ -6,8 +6,6 @@ Since the study of non-cooperative game theory is limited to N players and is no
 
 P Equilibrium was created by me. It is a superset of Nash equilibrium.
 
-P Equilibrium can also be called P-Equilibrium/P-Equilibrium.
-
 Its English names are Bullshit Equilibrium (hardly impossible equilibrium), P Equilibrium, MVP Equilibrium, and Zeusro Equilibrium.
 
 The mathematical definition is called Zero Equilibrium.
