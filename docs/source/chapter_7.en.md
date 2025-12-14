@@ -69,3 +69,5 @@ In a patriarchal society, children take the father’s surname. But if the woman
 However, in a patriarchal society, most Chinese people care too much about “face,” so they refuse to do this. This perfectly explains why, in 2020, I came across that heartbreaking painting titled 张秩杰.
 
 Reality is not mythology. Crossing social classes is sometimes nothing more than a fantasy.
+
+Just like in Buddhist theory, there is a distinction between the "six realms," where different groups of beings live in different spaces.
